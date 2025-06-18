@@ -1,4 +1,4 @@
-# Customer Churn Risk Segmentation
+# Customer Churn Prediction
 
 A Jupyter-based data analysis and clustering pipeline to identify at-risk customers by leveraging transaction data and RFM (Recency–Frequency–Monetary) modeling. By segmenting customers into behavioral cohorts, we can flag those most likely to churn and target retention efforts accordingly.
 
