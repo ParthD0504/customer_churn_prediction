@@ -9,7 +9,6 @@ A Jupyter-based data analysis and clustering pipeline to identify at-risk custom
 ```
 ├── customer_churn.ipynb      # Main notebook: EDA → RFM feature engineering → clustering
 ├── project2_data.csv         # Raw transaction data
-├── requirements.txt          # Python dependencies
 └── README.md                 # Project overview and instructions
 ```
 
