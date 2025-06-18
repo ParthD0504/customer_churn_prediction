@@ -98,7 +98,6 @@ Use these insights to tailor retention campaigns, loyalty rewards, and re-engage
 - scikit-learn  
 - yellowbrick  
 
-_(All packages listed in `requirements.txt`.)_
 
 ---
 
